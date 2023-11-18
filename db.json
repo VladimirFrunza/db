@@ -1,0 +1,17 @@
+[
+    {
+        "label": "Home",
+        "to": "/",
+        "severity": "primary"
+    },
+    {
+        "label": "About",
+        "to": "/about",
+        "severity": "danger"
+    },
+    {
+        "label": "Contacts",
+        "to": "/contacts",
+        "severity": "info"
+    }
+]
