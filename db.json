@@ -3,37 +3,44 @@
         {
             "label": "Home",
             "to": "/",
-            "severity": "primary"
+            "severity": "primary",
+            "id": 1
         },
         {
             "label": "About",
             "to": "/about",
-            "severity": "danger"
+            "severity": "danger",
+            "id": 2
         },
         {
             "label": "Contacts",
             "to": "/contacts",
-            "severity": "info"
+            "severity": "info",
+            "id": 3
         },
         {
             "label": "Products",
             "to": "/products",
-            "severity": "warning"
+            "severity": "warning",
+            "id": 4
         },
         {
             "label": "Services",
             "to": "/services",
-            "severity": "info"
+            "severity": "info",
+            "id": 5
         },
         {
             "label": "Blog",
             "to": "/blog",
-            "severity": "info"
+            "severity": "info",
+            "id": 6
         },
         {
             "label": "News",
             "to": "/news",
-            "severity": "info"
+            "severity": "info",
+            "id": 7
         }
     ]
 }
