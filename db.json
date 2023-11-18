@@ -1,17 +1,39 @@
-[
-    {
-        "label": "Home",
-        "to": "/",
-        "severity": "primary"
-    },
-    {
-        "label": "About",
-        "to": "/about",
-        "severity": "danger"
-    },
-    {
-        "label": "Contacts",
-        "to": "/contacts",
-        "severity": "info"
-    }
-]
+{
+    "menu": [
+        {
+            "label": "Home",
+            "to": "/",
+            "severity": "primary"
+        },
+        {
+            "label": "About",
+            "to": "/about",
+            "severity": "danger"
+        },
+        {
+            "label": "Contacts",
+            "to": "/contacts",
+            "severity": "info"
+        },
+        {
+            "label": "Products",
+            "to": "/products",
+            "severity": "warning"
+        },
+        {
+            "label": "Services",
+            "to": "/services",
+            "severity": "info"
+        },
+        {
+            "label": "Blog",
+            "to": "/blog",
+            "severity": "info"
+        },
+        {
+            "label": "News",
+            "to": "/news",
+            "severity": "info"
+        }
+    ]
+}
