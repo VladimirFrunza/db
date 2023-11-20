@@ -1,46 +1,100 @@
 {
-    "menu": [
-        {
-            "label": "Home",
-            "to": "/",
-            "severity": "primary",
-            "id": 1
-        },
-        {
-            "label": "About",
-            "to": "/about",
-            "severity": "danger",
-            "id": 2
-        },
-        {
-            "label": "Contacts",
-            "to": "/contacts",
-            "severity": "info",
-            "id": 3
-        },
-        {
-            "label": "Products",
-            "to": "/products",
-            "severity": "warning",
-            "id": 4
-        },
-        {
-            "label": "Services",
-            "to": "/services",
-            "severity": "info",
-            "id": 5
-        },
-        {
-            "label": "Blog",
-            "to": "/blog",
-            "severity": "info",
-            "id": 6
-        },
-        {
-            "label": "News",
-            "to": "/news",
-            "severity": "info",
-            "id": 7
-        }
-    ]
+  "menu": [
+    {
+      "label": "Blog Posts",
+      "to": "/blog-posts",
+      "severity": "primary",
+      "id": 1
+    },
+    {
+      "label": "Collage",
+      "to": "/collage",
+      "severity": "danger",
+      "id": 2
+    },
+    {
+      "label": "Collapsible Content",
+      "to": "/collapsible-content",
+      "severity": "info",
+      "id": 3
+    },
+    {
+      "label": "Collections",
+      "to": "/collections",
+      "severity": "primary",
+      "id": 4
+    },
+    {
+      "label": "Contact Form",
+      "to": "/contact-form",
+      "severity": "danger",
+      "id": 5
+    },
+    {
+      "label": "Email Signup",
+      "to": "/email-signup",
+      "severity": "info",
+      "id": 6
+    },
+    {
+      "label": "Featured Collection",
+      "to": "/featured-collection",
+      "severity": "primary",
+      "id": 7
+    },
+    {
+      "label": "Featured Product",
+      "to": "/featured-product",
+      "severity": "danger",
+      "id": 8
+    },
+    {
+      "label": "Image Banner",
+      "to": "/image-banner",
+      "severity": "info",
+      "id": 9
+    },
+    {
+      "label": "Image with Text",
+      "to": "/image-with-text",
+      "severity": "primary",
+      "id": 10
+    },
+    {
+      "label": "Multicolumn",
+      "to": "/multicolumn",
+      "severity": "danger",
+      "id": 11
+    },
+    {
+      "label": "Products",
+      "to": "/products",
+      "severity": "info",
+      "id": 12
+    },
+    {
+      "label": "Quick Order List",
+      "to": "/quick-order-list",
+      "severity": "primary",
+      "id": 13
+    },
+    {
+      "label": "Rich Text",
+      "to": "/rich-text",
+      "severity": "danger",
+      "id": 14
+    },
+    {
+      "label": "Slideshow",
+      "to": "/slideshow",
+      "severity": "info",
+      "id": 15
+    },
+    {
+      "label": "Video",
+      "to": "/video",
+      "severity": "primary",
+      "id": 16
+    }
+  ]
 }
